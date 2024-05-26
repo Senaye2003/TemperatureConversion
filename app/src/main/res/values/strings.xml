@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name"> Temperature Conversion </string>
+    <string name="temperature_input"> Temperature: </string>
+    <string name="temperature_output_hint"> Enter Temperature </string>
+    <string name="conversion_output"> Conversion: </string>
+    <string name="toFahrenheit"> C to F</string>
+    <string name="toCelsius"> F to C</string>
+    <string name="reset"> Reset </string>
+
+
+</resources>
